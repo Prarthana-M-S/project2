@@ -1,4 +1,4 @@
 # new project 
 
 this project was created from local system
-created by prarthana M S
+created by prarthana M S.
